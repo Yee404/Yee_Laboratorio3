@@ -1,0 +1,9 @@
+﻿id_producto,nombre,cantidad_disponible,cantidad_vendidos,estado,precio,categoria,ml,tipo,gramos,sabor,tamanno
+246,cola,8,2,dispo,20,Bebida,450,gaseosa,,normal,mediano
+642,pepsi,8,2,dispo,20,Bebida,450,gaseosa,,normal,mediano
+135,gatorade,6,4,dispo,20,Bebida,450,gaseosa,,naranja,mediano
+531,vino,6,4,dispo,40,Bebida,750,alcohol,,normal,grande
+680,oreo,5,6,dispo,8,Snacks,,galleta,54,normal,pequenno
+186,doritos,5,6,dispo,10,Snacks,,bolsa,140,barbacoa,mediano
+790,cheetos,7,8,dispo,10,Snacks,,bolsa,140,normal,mediano
+197,gomitas,7,8,dispo,8,Snacks,,dulce,54,normal,pequenno
